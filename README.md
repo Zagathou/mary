@@ -25,4 +25,4 @@ Pro Version steht in `index.html` ein Kommentar `VERSION: … – BILD: …` mit
 
 Autor: Zagathou · [ABOUT](https://zagathou.github.io/zagathou/) · [GITHUB](https://github.com/Zagathou)
 
-Last Updated: 01.10.2026
+Last Updated: 03.10.2026
